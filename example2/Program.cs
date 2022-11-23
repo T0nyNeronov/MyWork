@@ -12,7 +12,6 @@ int z1 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Введите x2");
 int x2 = Convert.ToInt32(Console.ReadLine());
-Задача 21
 Console.WriteLine("Введите y2");
 int y2 = Convert.ToInt32(Console.ReadLine());
 
